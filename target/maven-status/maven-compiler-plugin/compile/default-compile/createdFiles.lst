@@ -1,0 +1,7 @@
+cz\unicode\webapp\managers\CaretakerManager.class
+cz\unicode\webapp\models\CaretakerModel.class
+cz\unicode\webapp\ApiConf.class
+cz\unicode\webapp\AnimalsResource.class
+cz\unicode\webapp\managers\AnimalManager.class
+cz\unicode\webapp\models\AnimalModel.class
+cz\unicode\webapp\CaretakerResource.class
